@@ -1,6 +1,5 @@
 package com.douzon.jdbc.bookshop.test;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import com.douzon.jdbc.bookshop.dao.AuthorDao;
